@@ -1,0 +1,76 @@
+{
+    "champions": [
+        {
+            "total assists": 8,
+            "won games": 1,
+            "total kills": 18,
+            "total games": 2,
+            "champion overall": "Jinx",
+            "total deaths": 10
+        },
+        {
+            "total assists": 0,
+            "won games": 0,
+            "total kills": 0,
+            "total games": 0,
+            "champion overall": "Twitch",
+            "total deaths": 0
+        },
+        {
+            "total assists": 8,
+            "won games": 1,
+            "total kills": 18,
+            "total games": 1,
+            "champion overall": "Ezreal",
+            "total deaths": 4
+        },
+        {
+            "total assists": 0,
+            "won games": 0,
+            "total kills": 0,
+            "total games": 0,
+            "champion overall": "Zeri",
+            "total deaths": 0
+        },
+        {
+            "total assists": 0,
+            "won games": 0,
+            "total kills": 0,
+            "total games": 0,
+            "champion overall": "Jhin",
+            "total deaths": 0
+        }
+    ],
+    "rank": "Diamond",
+    "profile name": "Slurps",
+    "match history": [
+        {
+            "kills": 10,
+            "game won?": true,
+            "assists": 4,
+            "champion": "Jinx",
+            "deaths": 3
+        },
+        {
+            "kills": 8,
+            "game won?": false,
+            "assists": 4,
+            "champion": "Jinx",
+            "deaths": 7
+        },
+        {
+            "kills": 18,
+            "game won?": true,
+            "assists": 8,
+            "champion": "Ezreal",
+            "deaths": 4
+        },
+        {
+            "kills": 5,
+            "game won?": false,
+            "assists": 4,
+            "champion": "Twitch",
+            "deaths": 8
+        }
+    ]
+}
